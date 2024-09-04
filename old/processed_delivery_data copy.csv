@@ -1,0 +1,11 @@
+recipient_id,preferred_time,delivery_date,delivery_time,day_of_week,special_event,location.city,location.region,location.postal_code,delivery_time_minutes
+001,10:30:00,2024-09-01,11:00:00,Monday,None,Mumbai,Maharashtra,400001,660
+002,14:00:00,2024-09-02,14:30:00,Tuesday,Holi,Delhi,Delhi,110001,870
+003,09:00:00,2024-09-03,09:15:00,Wednesday,None,Bengaluru,Karnataka,560001,555
+004,16:00:00,2024-09-04,16:30:00,Thursday,Pongal,Chennai,Tamil Nadu,600001,990
+005,18:00:00,2024-09-05,18:20:00,Friday,Diwali,Hyderabad,Telangana,500001,1100
+006,13:00:00,2024-09-06,13:45:00,Saturday,Durga Puja,Kolkata,West Bengal,700001,825
+007,08:30:00,2024-09-07,09:00:00,Sunday,None,Ahmedabad,Gujarat,380001,540
+008,12:00:00,2024-09-08,12:30:00,Monday,Gudi Padwa,Pune,Maharashtra,411001,750
+009,11:00:00,2024-09-09,11:20:00,Tuesday,None,Jaipur,Rajasthan,302001,680
+010,17:00:00,2024-09-10,17:30:00,Wednesday,Eid,Lucknow,Uttar Pradesh,226001,1050

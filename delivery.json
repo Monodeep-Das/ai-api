@@ -1,0 +1,133 @@
+[
+    {
+      "recipient_id": "001",
+      "preferred_time": "10:30",
+      "delivery_date": "2024-09-01",
+      "delivery_time": "11:00",
+      "location": {
+        "city": "Mumbai",
+        "region": "Maharashtra",
+        "postal_code": "400001"
+      },
+      "day_of_week": "Monday",
+      "special_event": "None"
+    },
+    {
+      "recipient_id": "002",
+      "preferred_time": "14:00",
+      "delivery_date": "2024-09-02",
+      "delivery_time": "14:30",
+      "location": {
+        "city": "Delhi",
+        "region": "Delhi",
+        "postal_code": "110001"
+      },
+      "day_of_week": "Tuesday",
+      "special_event": "Holi"
+    },
+    {
+      "recipient_id": "003",
+      "preferred_time": "09:00",
+      "delivery_date": "2024-09-03",
+      "delivery_time": "09:15",
+      "location": {
+        "city": "Bengaluru",
+        "region": "Karnataka",
+        "postal_code": "560001"
+      },
+      "day_of_week": "Wednesday",
+      "special_event": "None"
+    },
+    {
+      "recipient_id": "004",
+      "preferred_time": "16:00",
+      "delivery_date": "2024-09-04",
+      "delivery_time": "16:30",
+      "location": {
+        "city": "Chennai",
+        "region": "Tamil Nadu",
+        "postal_code": "600001"
+      },
+      "day_of_week": "Thursday",
+      "special_event": "Pongal"
+    },
+    {
+      "recipient_id": "005",
+      "preferred_time": "18:00",
+      "delivery_date": "2024-09-05",
+      "delivery_time": "18:20",
+      "location": {
+        "city": "Hyderabad",
+        "region": "Telangana",
+        "postal_code": "500001"
+      },
+      "day_of_week": "Friday",
+      "special_event": "Diwali"
+    },
+    {
+      "recipient_id": "006",
+      "preferred_time": "13:00",
+      "delivery_date": "2024-09-06",
+      "delivery_time": "13:45",
+      "location": {
+        "city": "Kolkata",
+        "region": "West Bengal",
+        "postal_code": "700001"
+      },
+      "day_of_week": "Saturday",
+      "special_event": "Durga Puja"
+    },
+    {
+      "recipient_id": "007",
+      "preferred_time": "08:30",
+      "delivery_date": "2024-09-07",
+      "delivery_time": "09:00",
+      "location": {
+        "city": "Ahmedabad",
+        "region": "Gujarat",
+        "postal_code": "380001"
+      },
+      "day_of_week": "Sunday",
+      "special_event": "None"
+    },
+    {
+      "recipient_id": "008",
+      "preferred_time": "12:00",
+      "delivery_date": "2024-09-08",
+      "delivery_time": "12:30",
+      "location": {
+        "city": "Pune",
+        "region": "Maharashtra",
+        "postal_code": "411001"
+      },
+      "day_of_week": "Monday",
+      "special_event": "Gudi Padwa"
+    },
+    {
+      "recipient_id": "009",
+      "preferred_time": "11:00",
+      "delivery_date": "2024-09-09",
+      "delivery_time": "11:20",
+      "location": {
+        "city": "Jaipur",
+        "region": "Rajasthan",
+        "postal_code": "302001"
+      },
+      "day_of_week": "Tuesday",
+      "special_event": "None"
+    },
+    {
+      "recipient_id": "010",
+      "preferred_time": "17:00",
+      "delivery_date": "2024-09-10",
+      "delivery_time": "17:30",
+      "location": {
+        "city": "Lucknow",
+        "region": "Uttar Pradesh",
+        "postal_code": "226001"
+      },
+      "day_of_week": "Wednesday",
+      "special_event": "Eid"
+    }
+  ]
+  
